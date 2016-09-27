@@ -1,0 +1,31 @@
+# Intro to Git
+## **Git Commands**
+  *git init - add git repository to directory
+  *git add - stage material [add period (.) to add git to whole directory]
+  *git commit -m “present tense explanation” - to save your code
+  *git reset - remove change before it has been committed
+  *git—help - gives some instruction on gits
+
+## Sublime
+![Helpful Shortcuts for Sublime](https://webdesign.tutsplus.com/tutorials/useful-shortcuts-for-a-faster-workflow-in-sublime-text-3--cms-22185
+)
+
+
+## Terminal Commands
+  *mv - rename or move files
+   same background operation
+  *pwd - present working directory
+  *ls - list directory
+  *tree - list directory in tree form
+  *man - manual
+   use / to search within manual
+  *ll - shows more info about directory
+  *cp - copy
+  *cp -R - copy directory
+  *rm - remove
+  *rm -r - remove directory
+  *ctrl -c - kill program
+  *ctrl - z - paus program
+
+**Never use Sude rm-rf /**
+
